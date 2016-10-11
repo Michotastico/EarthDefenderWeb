@@ -1,0 +1,6 @@
+{
+  "name": "Earth Defender Web",
+  "tagline": "",
+  "body": "### Earth Defender Web!\r\nThis re-implementation of Earth Defender is now using web technologies. In this case I use [PixiJS](http://www.pixijs.com/) to manage all the visual stuff and [HowlerJS](https://howlerjs.com/) to manage the audio files.\r\n\r\n### Authors and Contributors\r\nThe re-implementation was in charge of Michel Llorens (@Michotastico) with base on the work of Daniel Calderón S.\r\n\r\n### Support or Contact\r\nProblems with this? Try the contact form from my website [here](http://michotastico.github.io/) and asap I will answer you.",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}

@@ -99,6 +99,7 @@ function setup() {
             ship.vx = 0;
             ticks = 0;
             points = 0;
+            message.text = "Game Over!\nPoints: ";
             state = play;
         }
     };

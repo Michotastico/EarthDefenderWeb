@@ -174,7 +174,7 @@ function play() {
 
     }
     else{
-        ticks += 1;
+        ticks += random(1, 2);
     }
 
     var lasersToRemove = [];

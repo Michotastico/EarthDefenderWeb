@@ -101,6 +101,7 @@ function setup() {
             points = 0;
             message.text = "Game Over!\nPoints: ";
             state = play;
+            background_music.play();
         }
     };
 
@@ -139,7 +140,7 @@ function setup() {
     };
 
     state = play;
-
+    background_music.play();
     mainLoop();
 }
 
